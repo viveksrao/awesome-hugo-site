@@ -5,6 +5,8 @@ date: 2018-12-16T15:33:07-08:00
 
 ## About Me
 
+![Hugo Logo](/img/hugo-logo.png)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras in lorem lacinia, porta urna a, laoreet leo. Cras mattis lobortis placerat. Mauris mi risus, feugiat id pretium quis, convallis vitae nisl. Quisque hendrerit vitae nisi ac mattis. Vivamus ac libero sed nisi ultrices condimentum. Etiam fringilla ex eget elementum venenatis. Etiam malesuada orci sit amet rutrum aliquam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean a rhoncus libero. Donec velit metus, vulputate vitae tempus eu, vulputate vel est. Suspendisse aliquam quam sit amet tellus venenatis malesuada. Donec ut odio ipsum. Pellentesque varius justo sit amet mauris fringilla congue.
 
 In in neque ex. Fusce quis leo imperdiet, laoreet tellus sed, sollicitudin lectus. Nulla at rutrum ex. Nam ut leo eu arcu suscipit finibus in sit amet odio. Sed molestie, quam nec maximus semper, nulla dolor laoreet sapien, ac ornare ligula nunc a lorem. Donec vestibulum porta neque sed consequat. Vivamus et massa eget ligula porta maximus. Morbi luctus suscipit erat, quis imperdiet felis ullamcorper quis. Fusce dictum rutrum odio, vitae fringilla ipsum facilisis venenatis. Nullam et ex id elit maximus mollis. Mauris ut consectetur enim. In non tortor sit amet purus maximus mattis. Nullam congue eros a diam lobortis hendrerit. Nulla a pharetra lectus. Praesent vel ligula erat. Proin imperdiet ante vitae dolor gravida bibendum.

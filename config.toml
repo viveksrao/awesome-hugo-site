@@ -10,12 +10,12 @@ googleAnalytics = ""
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "Vivekanand Rao"
+    site_description = "The awesome blog of Vivekanand Rao."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "/img/hugo-logo.png"
+    header_background = "img/coffee.jpg"
     header_title = "My Awesome Static Site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
